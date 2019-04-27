@@ -24,7 +24,7 @@
                     <archive>
                         <!--Java 打包规范中的内容-->
                         <manifest>
-                            <mainClass>com.github.chatroom.server.single.SingleThreadServer</mainClass>
+                            <mainClass>com.github.chatroom.server.multi.MultiThreadServer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

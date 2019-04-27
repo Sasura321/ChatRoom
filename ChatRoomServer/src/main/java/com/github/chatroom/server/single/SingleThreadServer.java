@@ -9,7 +9,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 /**
- * 聊天室服务端程序
+ * 单线程聊天室服务端程序
  * Author: zsm
  * Created: 2019/4/24
  */
